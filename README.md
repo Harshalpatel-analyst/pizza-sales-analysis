@@ -49,6 +49,3 @@ This project uses a sample dataset of pizza sales to perform comprehensive analy
 - The highest revenue-generating pizza types are determined based on the analysis.
 - Orders are most frequent during the Lunch time and evening hours.
 
-## Acknowledgments
-Credit to the original data source provided by Ayushi jain (https://github.com/Ayushi0214)
-
